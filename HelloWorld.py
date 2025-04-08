@@ -3,6 +3,7 @@
 # to print you use the " print" keyword
 # no need for semi-colons to indicate the end of statements; you use enters/ newlines and tabs for such
  # """  """  functions as a multiline comment, while "#" functions as a single line comment
+ # dog
 
 """
 x = 10
